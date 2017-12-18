@@ -1,12 +1,15 @@
 {
   "name": "cookie-jar",
   "devDependencies": {
-    "poi": "^9.5.5",
+    "poi": "^9.6.1",
     "standard": "^10.0.3"
   },
   "scripts": {
     "test": "standard",
-    "build": "poi src/cookie-jar.js",
-    "build:prod": "poi build src/cookie-jar.js"
+    "build": "poi cookie-jar.js",
+    "build:prod": "poi build cookie-jar.js"
+  },
+  "dependencies": {
+    "jquery.terminal": "^1.11.0"
   }
 }
