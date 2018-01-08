@@ -4020,9 +4020,9 @@ poi-dev-utils@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/poi-dev-utils/-/poi-dev-utils-1.0.1.tgz#c3089d1db60e9d2c56343decc6a3b9647d577c14"
 
-poi-load-config@^1.1.4:
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/poi-load-config/-/poi-load-config-1.1.4.tgz#7975f2c5753fa53294acd7ca0dd4f583907cadbc"
+poi-load-config@^1.1.5:
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/poi-load-config/-/poi-load-config-1.1.5.tgz#0236f11e91dc93fdf8893fd12b592bd11ea06c8a"
   dependencies:
     babel-core "^6.24.1"
     babel-load-config "^1.0.0"
@@ -4033,9 +4033,9 @@ poi-webpack-node-externals@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/poi-webpack-node-externals/-/poi-webpack-node-externals-2.0.0.tgz#3e23ae0673705f5f44b23ecd194b85c724de91fa"
 
-poi@^9.6.8:
-  version "9.6.8"
-  resolved "https://registry.yarnpkg.com/poi/-/poi-9.6.8.tgz#8f2a96d9377d15fc29f79d1b8d5211a6a5258bad"
+poi@^9.6.10:
+  version "9.6.10"
+  resolved "https://registry.yarnpkg.com/poi/-/poi-9.6.10.tgz#95a6659c6af5d2c99e3b7e880a74b15d107110b2"
   dependencies:
     address "^1.0.1"
     autoprefixer "^7.1.2"
@@ -4064,7 +4064,7 @@ poi@^9.6.8:
     opn "^5.0.0"
     parse-json-config "^0.2.0"
     poi-dev-utils "^1.0.1"
-    poi-load-config "^1.1.4"
+    poi-load-config "^1.1.5"
     poi-webpack-node-externals "^2.0.0"
     post-compile-webpack-plugin "^0.1.1"
     postcss-loader "^2.0.6"
