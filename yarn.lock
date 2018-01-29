@@ -3460,9 +3460,9 @@ isstream@~0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/isstream/-/isstream-0.1.2.tgz#47e63f7af55afa6f92e1500e690eb8b8529c099a"
 
-jquery.terminal@^1.11.3:
-  version "1.11.3"
-  resolved "https://registry.yarnpkg.com/jquery.terminal/-/jquery.terminal-1.11.3.tgz#3086bb439b4e4737e60b41987fc83850b6515d0e"
+jquery.terminal@^1.11.4:
+  version "1.11.4"
+  resolved "https://registry.yarnpkg.com/jquery.terminal/-/jquery.terminal-1.11.4.tgz#1e74743ea841a654bc936a79c2f253e16fe1eab1"
   dependencies:
     jquery "~3"
 
