@@ -570,9 +570,9 @@
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@poi/bs-loader/-/bs-loader-1.0.0.tgz#493c406a7b747881303ae67f73bbe83ae60a4c3c"
 
-"@poi/core@^10.0.2":
-  version "10.0.2"
-  resolved "https://registry.yarnpkg.com/@poi/core/-/core-10.0.2.tgz#6693e3f6aaab9d9759f144e81576486519c7ce1a"
+"@poi/core@^10.0.3":
+  version "10.0.3"
+  resolved "https://registry.yarnpkg.com/@poi/core/-/core-10.0.3.tgz#bce17d3ce846d70c2e7777b24ada2f6a3a3cde3c"
   dependencies:
     "@babel/core" "^7.0.0-beta.40"
     "@poi/bs-loader" "^1.0.0"
@@ -4810,11 +4810,11 @@ pluralize@^7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/pluralize/-/pluralize-7.0.0.tgz#298b89df8b93b0221dbf421ad2b1b1ea23fc6777"
 
-poi@^10.0.3:
-  version "10.0.3"
-  resolved "https://registry.yarnpkg.com/poi/-/poi-10.0.3.tgz#9615f0ea3870dfecab136e4e74713ae6e6770fe5"
+poi@^10.1.2:
+  version "10.1.2"
+  resolved "https://registry.yarnpkg.com/poi/-/poi-10.1.2.tgz#e4b8e3af8073dc40abf85c5ba452101e8243ce19"
   dependencies:
-    "@poi/core" "^10.0.2"
+    "@poi/core" "^10.0.3"
     "@poi/dev-utils" "^10.0.0"
     "@poi/logger" "^10.0.0"
     address "^1.0.1"
