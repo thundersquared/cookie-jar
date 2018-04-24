@@ -570,9 +570,9 @@
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@poi/bs-loader/-/bs-loader-1.0.0.tgz#493c406a7b747881303ae67f73bbe83ae60a4c3c"
 
-"@poi/core@^10.0.3":
-  version "10.0.3"
-  resolved "https://registry.yarnpkg.com/@poi/core/-/core-10.0.3.tgz#bce17d3ce846d70c2e7777b24ada2f6a3a3cde3c"
+"@poi/core@^10.0.4":
+  version "10.0.4"
+  resolved "https://registry.yarnpkg.com/@poi/core/-/core-10.0.4.tgz#dcadf02d242f4c46d60658444d8709d3c9ca1029"
   dependencies:
     "@babel/core" "^7.0.0-beta.40"
     "@poi/bs-loader" "^1.0.0"
@@ -582,7 +582,7 @@
     css-loader "^0.28.10"
     extract-text-webpack-plugin "^4.0.0-beta.0"
     file-loader "^1.1.11"
-    friendly-webpack-reporter "^1.0.1"
+    friendly-webpack-reporter "^1.0.2"
     html-webpack-plugin "^3.1.0"
     lodash.merge "^4.6.1"
     mini-css-extract-plugin "^0.4.0"
@@ -962,9 +962,9 @@ babel-plugin-transform-vue-jsx@^3.5.0:
   dependencies:
     esutils "^2.0.2"
 
-babel-preset-poi@^10.0.0:
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/babel-preset-poi/-/babel-preset-poi-10.0.0.tgz#da0848379a893422f7c0b4bd895631eca36a8f39"
+babel-preset-poi@^10.0.1:
+  version "10.0.1"
+  resolved "https://registry.yarnpkg.com/babel-preset-poi/-/babel-preset-poi-10.0.1.tgz#743289259fc3cadf98defeb40802253064a20fcc"
   dependencies:
     "@babel/plugin-proposal-class-properties" "^7.0.0-beta.40"
     "@babel/plugin-proposal-decorators" "^7.0.0-beta.40"
@@ -2822,9 +2822,9 @@ fresh@0.5.2:
   version "0.5.2"
   resolved "https://registry.yarnpkg.com/fresh/-/fresh-0.5.2.tgz#3d8cadd90d976569fa835ab1f8e4b23a105605a7"
 
-friendly-webpack-reporter@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/friendly-webpack-reporter/-/friendly-webpack-reporter-1.0.1.tgz#4bada3a5b434191d7788b7be797293a3fc4382bc"
+friendly-webpack-reporter@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/friendly-webpack-reporter/-/friendly-webpack-reporter-1.0.2.tgz#b0f2b3f78e60e0a4e3be0f5d2af5952926b3ca7c"
   dependencies:
     bytes "^3.0.0"
     chalk "^2.3.2"
@@ -4810,15 +4810,15 @@ pluralize@^7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/pluralize/-/pluralize-7.0.0.tgz#298b89df8b93b0221dbf421ad2b1b1ea23fc6777"
 
-poi@^10.1.2:
-  version "10.1.2"
-  resolved "https://registry.yarnpkg.com/poi/-/poi-10.1.2.tgz#e4b8e3af8073dc40abf85c5ba452101e8243ce19"
+poi@^10.1.5:
+  version "10.1.5"
+  resolved "https://registry.yarnpkg.com/poi/-/poi-10.1.5.tgz#f31cbb6ce544013eb222b3eaccae2db2faf9d0b6"
   dependencies:
-    "@poi/core" "^10.0.3"
+    "@poi/core" "^10.0.4"
     "@poi/dev-utils" "^10.0.0"
     "@poi/logger" "^10.0.0"
     address "^1.0.1"
-    babel-preset-poi "^10.0.0"
+    babel-preset-poi "^10.0.1"
     cac "^4.4.1"
     chalk "^2.0.1"
     chokidar "^2.0.0"
