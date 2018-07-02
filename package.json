@@ -10,6 +10,6 @@
     "build:prod": "poi build cookie-jar.js"
   },
   "dependencies": {
-    "jquery.terminal": "^1.14.0"
+    "jquery.terminal": "^1.17.0"
   }
 }
