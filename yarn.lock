@@ -669,9 +669,9 @@
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/@poi/pnp-webpack-plugin/-/pnp-webpack-plugin-0.0.2.tgz#4633d4445637a2ed3b3da7f831ea7ee38587e6d7"
 
-"@types/jquery@^3.3.6":
-  version "3.3.22"
-  resolved "https://registry.yarnpkg.com/@types/jquery/-/jquery-3.3.22.tgz#cde55dc8f83207dffd16205b05f97ce824581735"
+"@types/jquery@3.3.29":
+  version "3.3.29"
+  resolved "https://registry.yarnpkg.com/@types/jquery/-/jquery-3.3.29.tgz#680a2219ce3c9250483722fccf5570d1e2d08abd"
   dependencies:
     "@types/sizzle" "*"
 
@@ -3704,13 +3704,13 @@ joycon@^2.2.1:
   version "2.2.3"
   resolved "https://registry.yarnpkg.com/joycon/-/joycon-2.2.3.tgz#eeb1169850710c39ab60d8d4a00e50b0b61be581"
 
-jquery.terminal@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/jquery.terminal/-/jquery.terminal-2.0.1.tgz#b1b9e2831fbbcadaa68f565e854ae3e571237dc1"
+jquery.terminal@^2.5.1:
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/jquery.terminal/-/jquery.terminal-2.5.1.tgz#02c3f096013ed938f895beaab417ab0368d676dd"
   dependencies:
-    "@types/jquery" "^3.3.6"
+    "@types/jquery" "3.3.29"
     jquery "~3"
-    prismjs "^1.15.0"
+    prismjs "^1.16.0"
     wcwidth "^1.0.1"
 
 jquery@~3:
@@ -5150,9 +5150,9 @@ pretty-error@^2.1.1:
     renderkid "^2.0.1"
     utila "~0.4"
 
-prismjs@^1.15.0:
-  version "1.15.0"
-  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.15.0.tgz#8801d332e472091ba8def94976c8877ad60398d9"
+prismjs@^1.16.0:
+  version "1.16.0"
+  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.16.0.tgz#406eb2c8aacb0f5f0f1167930cb83835d10a4308"
   optionalDependencies:
     clipboard "^2.0.0"
 
