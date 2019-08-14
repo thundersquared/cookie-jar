@@ -669,9 +669,9 @@
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/@poi/pnp-webpack-plugin/-/pnp-webpack-plugin-0.0.2.tgz#4633d4445637a2ed3b3da7f831ea7ee38587e6d7"
 
-"@types/jquery@^3.3.6":
-  version "3.3.22"
-  resolved "https://registry.yarnpkg.com/@types/jquery/-/jquery-3.3.22.tgz#cde55dc8f83207dffd16205b05f97ce824581735"
+"@types/jquery@3.3.29":
+  version "3.3.29"
+  resolved "https://registry.yarnpkg.com/@types/jquery/-/jquery-3.3.29.tgz#680a2219ce3c9250483722fccf5570d1e2d08abd"
   dependencies:
     "@types/sizzle" "*"
 
@@ -2700,7 +2700,7 @@ extend@~3.0.0:
 
 external-editor@^2.1.0:
   version "2.2.0"
-  resolved "http://registry.npmjs.org/external-editor/-/external-editor-2.2.0.tgz#045511cfd8d133f3846673d1047c154e214ad3d5"
+  resolved "https://registry.npmjs.org/external-editor/-/external-editor-2.2.0.tgz#045511cfd8d133f3846673d1047c154e214ad3d5"
   dependencies:
     chardet "^0.4.0"
     iconv-lite "^0.4.17"
@@ -3704,13 +3704,13 @@ joycon@^2.2.1:
   version "2.2.3"
   resolved "https://registry.yarnpkg.com/joycon/-/joycon-2.2.3.tgz#eeb1169850710c39ab60d8d4a00e50b0b61be581"
 
-jquery.terminal@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/jquery.terminal/-/jquery.terminal-2.0.1.tgz#b1b9e2831fbbcadaa68f565e854ae3e571237dc1"
+jquery.terminal@^2.7.1:
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/jquery.terminal/-/jquery.terminal-2.7.1.tgz#6712f872f5de98a95731807be31201e7ec553667"
   dependencies:
-    "@types/jquery" "^3.3.6"
+    "@types/jquery" "3.3.29"
     jquery "~3"
-    prismjs "^1.15.0"
+    prismjs "^1.16.0"
     wcwidth "^1.0.1"
 
 jquery@~3:
@@ -5150,9 +5150,9 @@ pretty-error@^2.1.1:
     renderkid "^2.0.1"
     utila "~0.4"
 
-prismjs@^1.15.0:
-  version "1.15.0"
-  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.15.0.tgz#8801d332e472091ba8def94976c8877ad60398d9"
+prismjs@^1.16.0:
+  version "1.17.1"
+  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.17.1.tgz#e669fcbd4cdd873c35102881c33b14d0d68519be"
   optionalDependencies:
     clipboard "^2.0.0"
 
