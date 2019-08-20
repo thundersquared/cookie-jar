@@ -2,7 +2,7 @@
   "name": "cookie-jar",
   "devDependencies": {
     "poi": "^12.4.5",
-    "standard": "^12.0.1"
+    "standard": "^14.0.0"
   },
   "scripts": {
     "test": "standard",
