@@ -690,9 +690,9 @@
     "@types/minimatch" "*"
     "@types/node" "*"
 
-"@types/jquery@^3.3.6":
-  version "3.3.22"
-  resolved "https://registry.yarnpkg.com/@types/jquery/-/jquery-3.3.22.tgz#cde55dc8f83207dffd16205b05f97ce824581735"
+"@types/jquery@3.3.29":
+  version "3.3.29"
+  resolved "https://registry.yarnpkg.com/@types/jquery/-/jquery-3.3.29.tgz#680a2219ce3c9250483722fccf5570d1e2d08abd"
   dependencies:
     "@types/sizzle" "*"
 
@@ -3610,13 +3610,13 @@ joycon@^2.2.1:
   version "2.2.3"
   resolved "https://registry.yarnpkg.com/joycon/-/joycon-2.2.3.tgz#eeb1169850710c39ab60d8d4a00e50b0b61be581"
 
-jquery.terminal@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/jquery.terminal/-/jquery.terminal-2.0.1.tgz#b1b9e2831fbbcadaa68f565e854ae3e571237dc1"
+jquery.terminal@^2.8.0:
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/jquery.terminal/-/jquery.terminal-2.8.0.tgz#a1966feaa854e23c1a48222bc2e04834a23a7940"
   dependencies:
-    "@types/jquery" "^3.3.6"
+    "@types/jquery" "3.3.29"
     jquery "~3"
-    prismjs "^1.15.0"
+    prismjs "^1.16.0"
     wcwidth "^1.0.1"
 
 jquery@~3:
@@ -5156,9 +5156,9 @@ pretty-ms@^4.0.0:
   dependencies:
     parse-ms "^2.0.0"
 
-prismjs@^1.15.0:
-  version "1.15.0"
-  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.15.0.tgz#8801d332e472091ba8def94976c8877ad60398d9"
+prismjs@^1.16.0:
+  version "1.17.1"
+  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.17.1.tgz#e669fcbd4cdd873c35102881c33b14d0d68519be"
   optionalDependencies:
     clipboard "^2.0.0"
 
